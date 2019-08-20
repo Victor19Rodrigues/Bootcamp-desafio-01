@@ -5,6 +5,9 @@
   "repository": "git@github.com:Victor19Rodrigues/Bootcamp-desafio-01.git",
   "author": "Victor Rodrigues <victor.rodrigues@justdigital.com.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
