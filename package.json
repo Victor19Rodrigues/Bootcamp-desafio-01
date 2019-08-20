@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Victor19Rodrigues/Bootcamp-desafio-01.git",
+  "author": "Victor Rodrigues <victor.rodrigues@justdigital.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
