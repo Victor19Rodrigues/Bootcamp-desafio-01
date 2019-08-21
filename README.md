@@ -38,3 +38,8 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 
 - Crie um middleware global chamado em todas requisições que imprime (`console.log`) uma contagem de quantas requisições foram feitas na aplicação até então;
 
+## Para testar: 
+
+- Basta clonar o projeto e rodar o comando 'yarn' para instalar as dependências necessárias.
+
+
