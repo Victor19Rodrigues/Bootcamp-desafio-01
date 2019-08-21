@@ -41,5 +41,6 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 ## Para testar: 
 
 - Basta clonar o projeto e rodar o comando 'yarn' para instalar as dependências necessárias.
+- Importe o arquivo json em algum software que executa requests como: Insomnia ou Postman, para facilitar as requisições.
 
 
